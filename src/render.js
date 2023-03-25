@@ -16,3 +16,4 @@ const RenderPosition = {
   };
   
   export { RenderPosition, createElement, render };
+  
